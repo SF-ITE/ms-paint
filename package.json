@@ -23,7 +23,7 @@
     "image-editor",
     "bitmap"
   ],
-  "author": "Isaiah Odhner <isaiahodhner@gmail.com>",
+  "author": "Eric Errickson <ericerrickson.ml>",
   "main": "src/electron-main.js",
   "config": {
     "forge": {
